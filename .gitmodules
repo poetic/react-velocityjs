@@ -1,0 +1,3 @@
+[submodule "velocity-react"]
+	path = velocity-react
+	url = https://github.com/twitter-fabric/velocity-react
